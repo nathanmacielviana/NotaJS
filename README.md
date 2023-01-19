@@ -1,4 +1,4 @@
-<h1 align="center">Contador de Horas JS</h1>
+<h1 align="center">Contador de média simples em JavaScript</h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Status-Up-sucess"/>

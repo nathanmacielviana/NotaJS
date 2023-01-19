@@ -6,7 +6,7 @@
 </p>
 
 <h2 align="center">Descrição do Projeto 🧾</h2>
-<p align="center">Contador de média usando HTML e JavaScript;<br> Feito a partir de um exercício proposto. </p>
+<p align="center">Contador de média usando HTML e JavaScript;<br> Feito a partir de um exercício proposto. (Script dentro do próprio html)</p>
 
 <h2 align="center">Linguagens Utilizadas 💻</h2>
 <p align="center">
